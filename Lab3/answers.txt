@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Run time of sort1 was the greatest on both random and reversed files
+
+sort2 uses: Merge Sort
+
+How do you know?: It took the least amount of run time when executed on random and reversed files
+
+sort3 uses: Selection Sort
+
+How do you know?: It took more time than sort2 but less time than sort 1 when executed on random and reversed files
+
